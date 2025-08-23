@@ -2,6 +2,8 @@
 
 **DriverInstropectiveProxy** is an experimental project that explores the integration of AI into the kernel/driver space—where introspection, real-time responsiveness, and low-level security are critical.
 
+<img width="512" height="512" alt="image" src="https://copilot.microsoft.com/th/id/BCO.2d33bbc1-a97e-4493-893b-614daf96cbf5.png"/>
+
 ## 🚀 Purpose
 
 To build a smart proxy operating at the driver level, capable of:
