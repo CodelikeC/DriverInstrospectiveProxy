@@ -23,7 +23,40 @@ Because this proxy doesn’t just relay data—it **observes**, **analyzes**, an
 
 ## 📦 Project Structure
 ```
-DriverInstropectiveProxy/ ├── src/ # Core proxy source code ├── ai_module/ # Embedded AI logic ├── docs/ # Technical documentation ├── tests/ # Unit & integration tests └── README.md # This file
+DriverInstropectiveProxy/
+├── kernel/
+│   ├── hook/              # Mã nguồn liên quan đến driver hook
+│   ├── monitor/           # Theo dõi hành vi hệ thống
+│   └── comm/              # Giao tiếp IPC với AI daemon
+│
+├── ai/
+│   ├── models/            # Mô hình AI nhúng hoặc lightweight
+│   ├── inference/         # Logic suy diễn cục bộ
+│   └── daemon/            # AI daemon chạy nền (Python hoặc C++)
+│
+├── config/
+│   ├── rules.yaml         # Quy tắc phát hiện bất thường
+│   └── settings.json      # Cấu hình hệ thống
+│
+├── docs/
+│   ├── architecture.md    # Thiết kế tổng thể
+│   ├── protect.md         # Bảo vệ khỏi dữ liệu độc hại
+│   └── api.md             # Giao diện IPC/API
+│
+├── scripts/
+│   ├── build.sh           # Script build cho Linux
+│   └── install.ps1        # Script cài đặt cho Windows
+│
+├── tests/
+│   ├── unit/              # Kiểm thử đơn vị
+│   └── integration/       # Kiểm thử tích hợp
+│
+├── examples/
+│   └── anomaly_case/      # Tình huống phát hiện bất thường
+│
+├── LICENSE
+└── README.md
+
 
 ```
 
