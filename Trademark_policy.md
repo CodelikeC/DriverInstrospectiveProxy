@@ -1,6 +1,6 @@
 DriverInstropectiveProxy — Trademark & International Protection Notice Trademark Statement
 
-"DriverInstrppecitveProxy" and its associated logos, designs, and system architectures are claimed as trademarks of the author (Nguyễn Đức Trí) as of their first public use and publication on this repository.
+"DriverInstropecitveProxy" and its associated logos, designs, and system architectures are claimed as trademarks of the author (Nguyễn Đức Trí) as of their first public use and publication on this repository.
 
 Any unauthorized use, reproduction, modification, or distribution of these marks in a manner that may cause confusion, misrepresentation, or false attribution is strictly prohibited under national and international trademark laws.
 
