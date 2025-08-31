@@ -67,7 +67,6 @@ DriverInstropectiveProxy/
 - Python (optional, for AI daemon support)
 
 ## Badges 
-# Driver Introspective Proxy
 
 ![Status](https://img.shields.io/badge/status-experimental-orange?style=flat-square&logo=github)
 ![Release](https://img.shields.io/github/v/release/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square&logo=semver)
