@@ -66,5 +66,21 @@ DriverInstropectiveProxy/
 - Compiler: GCC/Clang or MSVC
 - Python (optional, for AI daemon support)
 
+## Badges 
+# Driver Introspective Proxy
+
+![Status](https://img.shields.io/badge/status-experimental-orange?style=flat-square&logo=github)
+![Release](https://img.shields.io/github/v/release/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square&logo=semver)
+![Pre-Release](https://img.shields.io/github/v/release/<YOUR-USERNAME>/<YOUR-REPO>?include_prereleases&label=pre-release&color=blue&style=flat-square)
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=cmake)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-blue?style=flat-square&logo=linux&logo=windows)
+![Language](https://img.shields.io/badge/language-C%2B%2B23-blueviolet?style=flat-square&logo=c%2B%2B)
+![Language](https://img.shields.io/badge/language-Lua-lightgrey?style=flat-square&logo=lua)
+
+![License](https://img.shields.io/github/license/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square)
+![Issues](https://img.shields.io/github/issues/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square)
+![Stars](https://img.shields.io/github/stars/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square&logo=github)
+
 
 
