@@ -1,4 +1,4 @@
-# DriverInstropectiveProxy
+# DriverInstrospectiveProxy
 
 **DriverInstropectiveProxy** is an experimental project that explores the integration of AI into the kernel/driver space—where introspection, real-time responsiveness, and low-level security are critical.
 
