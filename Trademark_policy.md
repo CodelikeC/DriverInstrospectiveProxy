@@ -1,6 +1,6 @@
-DriverInstropectiveProxy — Trademark & International Protection Notice Trademark Statement
+DriverInstrospectiveProxy — Trademark & International Protection Notice Trademark Statement
 
-"DriverInstropecitveProxy" and its associated logos, designs, and system architectures are claimed as trademarks of the author (Nguyễn Đức Trí) as of their first public use and publication on this repository.
+"DriverInstrospecitveProxy" and its associated logos, designs, and system architectures are claimed as trademarks of the author (Nguyễn Đức Trí) as of their first public use and publication on this repository.
 
 Any unauthorized use, reproduction, modification, or distribution of these marks in a manner that may cause confusion, misrepresentation, or false attribution is strictly prohibited under national and international trademark laws.
 
@@ -18,7 +18,7 @@ The author reserves the right to extend formal protection through international 
 
 Enforcement
 
-Any use of "DriverInstropectiveProxy" or its derivative marks without prior written authorization may result in civil and/or criminal liability.
+Any use of "DriverInstrospectiveProxy" or its derivative marks without prior written authorization may result in civil and/or criminal liability.
 
 The author reserves all rights to enforce this trademark globally, including injunctions, monetary damages, and seizure of infringing materials.
 
@@ -26,6 +26,6 @@ GitHub repositories or derivative works that infringe upon this trademark are su
 
 Limited Permitted Use
 
-Use of the name "DriverInstropectiveProxy" for academic reference, research citation, or fair commentary is permitted, provided it does not imply endorsement, ownership, or affiliation. Any commercial use requires explicit written permission from the author.
+Use of the name "DriverInstrospectiveProxy" for academic reference, research citation, or fair commentary is permitted, provided it does not imply endorsement, ownership, or affiliation. Any commercial use requires explicit written permission from the author.
 
 📌 Note: This public trademark notice serves as prima facie evidence of authorship and first use in commerce/publication, which is a critical factor in global trademark disputes.

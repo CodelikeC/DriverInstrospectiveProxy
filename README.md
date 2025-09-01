@@ -1,6 +1,6 @@
-# DriverInstropectiveProxy
+# DriverInstrospectiveProxy
 
-**DriverInstropectiveProxy** is an experimental project that explores the integration of AI into the kernel/driver space—where introspection, real-time responsiveness, and low-level security are critical.
+**DriverInstrospectiveProxy** is an experimental project that explores the integration of AI into the kernel/driver space—where introspection, real-time responsiveness, and low-level security are critical.
 
 <img width="512" height="512" alt="image" src="https://copilot.microsoft.com/th/id/BCO.2d33bbc1-a97e-4493-893b-614daf96cbf5.png"/>
 
@@ -11,7 +11,7 @@ To build a smart proxy operating at the driver level, capable of:
 - Reacting or alerting upon anomalies
 - Communicating with AI modules to make context-aware decisions
 
-## 🔍 Why "Instropective"?
+## 🔍 Why "Instrospective"?
 
 Because this proxy doesn’t just relay data—it **observes**, **analyzes**, and **responds**. It acts as a conscious intermediary, making the system more adaptive and secure.
 
@@ -65,6 +65,21 @@ DriverInstropectiveProxy/
 - OS with driver-level hook support (Linux kernel module, Windows WDM/UMDF)
 - Compiler: GCC/Clang or MSVC
 - Python (optional, for AI daemon support)
+
+## Badges 
+
+![Status](https://img.shields.io/badge/status-experimental-orange?style=flat-square&logo=github)
+![Release](https://img.shields.io/github/v/release/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square&logo=semver)
+![Pre-Release](https://img.shields.io/github/v/release/<YOUR-USERNAME>/<YOUR-REPO>?include_prereleases&label=pre-release&color=blue&style=flat-square)
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=cmake)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-blue?style=flat-square&logo=linux&logo=windows)
+![Language](https://img.shields.io/badge/language-C%2B%2B23-blueviolet?style=flat-square&logo=c%2B%2B)
+![Language](https://img.shields.io/badge/language-Lua-lightgrey?style=flat-square&logo=lua)
+
+![License](https://img.shields.io/github/license/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square)
+![Issues](https://img.shields.io/github/issues/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square)
+![Stars](https://img.shields.io/github/stars/<YOUR-USERNAME>/<YOUR-REPO>?style=flat-square&logo=github)
 
 
 
