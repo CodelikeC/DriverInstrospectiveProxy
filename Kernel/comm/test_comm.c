@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
+#include "comm_channel.c"
 // Declare tu comm_protocol.c 
 
 typedef enum{
