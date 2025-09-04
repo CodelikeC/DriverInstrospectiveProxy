@@ -30,5 +30,8 @@ void process_message(const CommMessage *msg)
         case CMD_SHUTDOWN:
         printf("[%s + %s] SHUTDOWN : %s\n", msg -> sender, msg ->payload, msg-> id, msg ->receiver);
         break; 
+
+        default: 
+        printf("Unknown command\n"); 
     }
 }
