@@ -31,7 +31,7 @@ void module_B_receive_and_reply()
     CommMessage msg;
     if (comm_channel_receive(&msg) == CHANNEL_OK)
     {
-        process_massage(&msg);
+        process_message(&msg);
         // neu la PING thi tra PONG .. // 
 
         if (msg.id == CMD_PING){
