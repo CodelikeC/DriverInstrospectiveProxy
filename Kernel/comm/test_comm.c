@@ -75,7 +75,8 @@ int main ()
 
     // 4. B gửi PONG đã nằm trong queue, A nhận lại
     CommMessage reply;
-    if (comm_channel_receive(&reply) == CHANNEL_OK) {
+    if (comm_channel_receive(&reply) == CHANNEL_OK) 
+    {
         process_message(&reply);
     }
 
