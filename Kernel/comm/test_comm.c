@@ -15,8 +15,19 @@ typedef enum{
 void build_message(CommMessage *msg, const char *sender, const char *receiver, CommandType cmd, const char *data );
 void process_message(const CommMessage *msg); 
 
+void process_message(const CommMessage *msg){}
+
+void build_message(CommMessage *msg, const char *sender, const char *receiver, CommandType cmd, const char *data ){
+
+}
+
+int comm_channel_receive(CommMessage *msg_out){}
+
 // declare tu comm_util.c 
 void log_message(const CommMessage *msg); 
+
+void log_message(const CommMessage *msg)
+{}
 
 // -- Gia lap 2 module --- // 
 void module_A_send(const char *target, CommandType cmd, const char *data)
