@@ -1,6 +1,10 @@
 #include "comm_channel.h"
+#include "comm_channel.c"
 #include <string.h>
 #include <unistd.h>
+#include <stdio.h>
+
+#include "comm_protocol.c"
 
 MessageQueue  q; 
 
@@ -11,7 +15,7 @@ void *producer(void *arg)
         Message msg; 
         char buffer[64]; 
 
-        sprintf(buffer, "hello %d", i); 
+        sprintf(buffer, "Hello %d", i); 
         encode_message(&msg, buffer);
         
         enqueue(&q, &msg); 

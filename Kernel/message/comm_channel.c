@@ -10,7 +10,7 @@ void init_queue(MessageQueue *q)
     pthread_cond_init(&q -> not_full, NULL); 
 }
 
-void enqueue(MessageQueue *q, Message *msg)
+void dequeue(MessageQueue *q, Message *msg)
 {
     pthread_mutex_lock(&q -> lock);
     while (q -> count == QUEUE_CAPACITY)
@@ -21,7 +21,7 @@ void enqueue(MessageQueue *q, Message *msg)
     q -> rear = (q -> rear + 1) % QUEUE_CAPACITY; 
     q -> count++ ; 
     pthread_cond_signal(&q -> not_empty); 
-    pthreda_mutex_unlock(&q-> lock);  
+    pthread_mutex_unlock(&q-> lock);  
 }
 
 void enqueue(MessageQueue *q , Message *msg)
