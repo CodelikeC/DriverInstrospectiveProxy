@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <sys/time.h>
 #include <stdio.h>
+
 #define NUM_MESSAGES 10000
 
 MessageQueue q;
