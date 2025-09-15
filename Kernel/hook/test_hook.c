@@ -4,8 +4,8 @@
 #include "syscall_hook.c"
 
 // cac ham init tu driver_hook.c va syscall_hook.c ....//
-void init_drive_hooks(); 
-void init_syscall_hooks(); 
+void init_drive_hooks(){}
+void init_syscall_hooks(){}
 
 int main()
 {
