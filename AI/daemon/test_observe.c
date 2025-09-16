@@ -1,8 +1,9 @@
 #include "observe_manager.h"
-// #include "observe_hook.c"
+#include "observe_hook.c"
 
-// #include "observe_kernel.c"
-// #include "observe_env.c"
+#include "observe_kernel.c"
+#include "observe_env.c"
+#include "observe_log.c"
 
 // forward declaration
 bool observe_hook_init(void){}

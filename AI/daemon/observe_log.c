@@ -32,5 +32,10 @@ bool observe_log_init(void)
         .userdata = NULL 
     }; 
 
-    return observe_manager_unregister(log_observer); 
+    return observe_manager_unregister(&log_observer); 
+}
+
+void observe_log_shutdown(void)
+{
+    observe_manager_unregister("log_observer"); 
 }
