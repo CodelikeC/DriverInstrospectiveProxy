@@ -31,5 +31,5 @@ int inference_env_score(void)
     if (raw_score < 0) return raw_score; 
     if (raw_score > 100) raw_score = 100; 
 
-    return raw_score; 
+    return raw_score;
 }
