@@ -25,6 +25,7 @@ typedef struct
     int behavior_score; // diem danh gia hanh vi
     int comm_score; // diem danh gia giao tiep
     int final_decision; 
+    int raw_score; 
 }inference_result_t; 
 
 // Khoi tao inference manager .. // 
