@@ -2,7 +2,8 @@
 
 **DriverInstrospectiveProxy** is an experimental project that explores the integration of AI into the kernel/driver space—where introspection, real-time responsiveness, and low-level security are critical.
 
-<img width="512" height="512" alt="image" src="blob:https://www.messenger.com/032b8893-8783-4139-bb9f-669d7cf5da1f"/>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/786dde3c-679d-4ee2-8791-22287118079d" />
+
 
 ## 🚀 Purpose
 
