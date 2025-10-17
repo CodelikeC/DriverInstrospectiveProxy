@@ -68,6 +68,11 @@ DriverInstropectiveProxy/
 - Compiler: GCC/Clang or MSVC
 - Python (optional, for AI daemon support)
 
+## 🧬 Related Projects
+- Adaptive OS : https://github.com/CodelikeC/AdaptiveOS
+
+- AIForDriver : https://github.com/CodelikeC/AIForDriver
+
 ## Badges 
 
 ![Status](https://img.shields.io/badge/status-experimental-orange?style=flat-square&logo=github)
